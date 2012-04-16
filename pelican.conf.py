@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 AUTHOR = u'Juan José Denis Corrales'
 SITENAME = u"Axaragua Fotoblog"
-SITEURL = 'http://blog.notmyidea.org'
+SITEURL = 'http://jjdenis.github.com'
 TIMEZONE = "Europe/Madrid"
 
 GITHUB_URL = 'http://github.com/ametaireau/'
@@ -11,11 +11,12 @@ REVERSE_CATEGORY_ORDER = True
 LOCALE = ""
 DEFAULT_PAGINATION = 4
 
-THEME = '/Users/jjdenis/Dropbox/blog_axaragua/notmyideatuneado'
+THEME = '/Users/jjdenis/jjdenis.github.com/notmyideatuneado'
 
 FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
+'''
 LINKS = (('Biologeek', 'http://biologeek.org'),
          ('Filyb', "http://filyb.info/"),
          ('Libert-fr', "http://www.libert-fr.com"),
@@ -26,6 +27,8 @@ LINKS = (('Biologeek', 'http://biologeek.org'),
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
           ('lastfm', 'http://lastfm.com/user/akounet'),
           ('github', 'http://github.com/ametaireau'),)
+
+'''
 
 # global metadata to all the contents
 DEFAULT_METADATA = (('yeah', 'it is'),)
