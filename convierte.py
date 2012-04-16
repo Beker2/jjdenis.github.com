@@ -55,7 +55,7 @@ def probamos():
         for i, linea in enumerate(lineas):
             print linea[:-1]
             m = p.search(linea)
-            lineas[i]=p.sub('?w=300', lineas[i])
+            lineas[i]=p.sub('?w=400', lineas[i])
             if m:
                 print m.group()
 

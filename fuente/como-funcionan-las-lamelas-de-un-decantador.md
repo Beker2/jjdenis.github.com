@@ -11,7 +11,7 @@ en los decantadores. Aquí va:
 El esquema siguiente explica por qué las partículas se "adhieren" a las
 lamelas. El punto rojo representa la trayectoria de una partícula.
 
-![Media\_httpwwwleiblein\_ujiqa](http://axaragua.files.wordpress.com/2012/03/media_httpwwwleiblein_ujiqa-scaled500.jpg?w=300)
+![Media\_httpwwwleiblein\_ujiqa](http://axaragua.files.wordpress.com/2012/03/media_httpwwwleiblein_ujiqa-scaled500.jpg?w=400)
 
 Una vez que la partícula toca la lamela, y esta es la parte interesante,
 desliza con velocidad hacia abajo, pues se junta con otras y forman algo
@@ -28,8 +28,8 @@ resistencia viscosa del agua). En la lamela se elimina esta última.
 También es curioso pensar que, en la parte inferior de las lamelas se
 debe producir el mismo efecto, sólo que con las partículas que flotan.
 
-![Media\_httpwwwenbicieu\_bphgi](http://axaragua.files.wordpress.com/2012/03/media_httpwwwenbicieu_bphgi-scaled1000.jpg?w=300)
+![Media\_httpwwwenbicieu\_bphgi](http://axaragua.files.wordpress.com/2012/03/media_httpwwwenbicieu_bphgi-scaled1000.jpg?w=400)
 
 Y estas son nuestras lamelas, convenientemente lisas e inclinadas:
 
-![La\_foto](http://axaragua.files.wordpress.com/2012/03/la_foto-jpeg-scaled-1000.jpg?w=300)
+![La\_foto](http://axaragua.files.wordpress.com/2012/03/la_foto-jpeg-scaled-1000.jpg?w=400)
