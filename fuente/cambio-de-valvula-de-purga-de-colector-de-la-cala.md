@@ -20,27 +20,27 @@ Van fotos de la operación, paso a paso.
 
 Rompiendo para acceder.
 
-![96bda74926fde912bedc626f0d373a](http://axaragua.files.wordpress.com/2012/03/96bda74926fde912bedc626f0d373a.jpg)
-![Img\_3755](http://axaragua.files.wordpress.com/2012/03/img_3755-jpeg-scaled1000.jpg)
+![96bda74926fde912bedc626f0d373a](http://axaragua.files.wordpress.com/2012/03/96bda74926fde912bedc626f0d373a.jpg?w=300)
+![Img\_3755](http://axaragua.files.wordpress.com/2012/03/img_3755-jpeg-scaled1000.jpg?w=300)
 
 
 JMS: Desmontando válvula guillotina averiada
 
-![La\_foto](http://axaragua.files.wordpress.com/2012/03/la_foto2.jpg)
+![La\_foto](http://axaragua.files.wordpress.com/2012/03/la_foto2.jpg?w=300)
 
 JMS: Fíjate en que la brida reductora es excéntrica. No solo el espacio
 de que avanzamos para reducir de DN 400 a DN 300 es mínimo, sino que
 además nos da la ventaja de que, como es para limpieza de purga, no
 quedan posible depósitos.
 
-![0la\_foto](http://axaragua.files.wordpress.com/2012/03/0la_foto2.jpg)
+![0la\_foto](http://axaragua.files.wordpress.com/2012/03/0la_foto2.jpg?w=300)
 
 JMS: Apretar tornillos y listo.¡¡ Estos son unos fieras!!
 
-![1la\_foto](http://axaragua.files.wordpress.com/2012/03/1la_foto.jpg)
-![Img\_3763](http://axaragua.files.wordpress.com/2012/03/img_3763-scaled1000.jpg)
+![1la\_foto](http://axaragua.files.wordpress.com/2012/03/1la_foto.jpg?w=300)
+![Img\_3763](http://axaragua.files.wordpress.com/2012/03/img_3763-scaled1000.jpg?w=300)
 
 
 > La arqueta reconstruida.
 >
-![Img\_3770](http://axaragua.files.wordpress.com/2012/03/img_3770-jpeg-scaled1000.jpg)
+![Img\_3770](http://axaragua.files.wordpress.com/2012/03/img_3770-jpeg-scaled1000.jpg?w=300)

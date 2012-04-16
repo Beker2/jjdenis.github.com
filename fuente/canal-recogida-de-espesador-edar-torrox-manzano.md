@@ -15,6 +15,6 @@ clarificada se recoge por la parte superior. El canal de recogida obliga
 a que el agua clarificada, en su ascensión, se reparta por todo el
 espesador disminuyendo su velocidad.
 
-![La\_foto\_2](http://axaragua.files.wordpress.com/2011/08/la_foto_2.jpg)
-![La\_foto\_3](http://axaragua.files.wordpress.com/2011/08/la_foto_3.jpg)
-![La\_foto\_5](http://axaragua.files.wordpress.com/2011/08/la_foto_5.jpg)
+![La\_foto\_2](http://axaragua.files.wordpress.com/2011/08/la_foto_2.jpg?w=300)
+![La\_foto\_3](http://axaragua.files.wordpress.com/2011/08/la_foto_3.jpg?w=300)
+![La\_foto\_5](http://axaragua.files.wordpress.com/2011/08/la_foto_5.jpg?w=300)

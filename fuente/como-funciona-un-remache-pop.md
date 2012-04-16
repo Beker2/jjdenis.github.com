@@ -16,8 +16,8 @@ deformada, sino que va estallando y se repliega, por que, con unos
 martillazos por detrás se queda la superficie trasera casi plana, sin el
 resalte típico de los remaches.
 
-![Fijacion\_remache\_flor](http://axaragua.files.wordpress.com/2012/03/fijacion_remache_flor-scaled500.jpg)
-![Remache\_flor](http://axaragua.files.wordpress.com/2012/03/remache_flor-jpeg-scaled500.jpg)
+![Fijacion\_remache\_flor](http://axaragua.files.wordpress.com/2012/03/fijacion_remache_flor-scaled500.jpg?w=300)
+![Remache\_flor](http://axaragua.files.wordpress.com/2012/03/remache_flor-jpeg-scaled500.jpg?w=300)
 
 
 Los remaches con tuerca, en vez de tener un "clavo" interno lo que
@@ -28,5 +28,5 @@ queda una tuerca hembra para atornillar lo que necesites. Este remache
 no se usa para unir dos superficies, sino para disponer de una tuerca en
 una superficie.
 
-![Img\_3782](http://axaragua.files.wordpress.com/2012/03/img_3782-scaled1000.jpg)
-![Img\_3787](http://axaragua.files.wordpress.com/2012/03/img_3787-scaled1000.jpg)
+![Img\_3782](http://axaragua.files.wordpress.com/2012/03/img_3782-scaled1000.jpg?w=300)
+![Img\_3787](http://axaragua.files.wordpress.com/2012/03/img_3787-scaled1000.jpg?w=300)
