@@ -8,7 +8,7 @@ GITHUB_URL = 'http://github.com/ametaireau/'
 #DISQUS_SITENAME = "blog-notmyidea"
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
-LOCALE = ""
+LOCALE = "es_ES"
 DEFAULT_PAGINATION = 4
 
 THEME = '/Users/jjdenis/jjdenis.github.com/notmyideatuneado'
