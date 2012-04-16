@@ -14,7 +14,10 @@ DEFAULT_PAGINATION = 4
 THEME = '/Users/jjdenis/jjdenis.github.com/notmyideatuneado'
 
 FEED_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+#CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+FEED_DOMAIN = SITEURL
+FEED_MAX_ITEMS = 20
+
 
 '''
 LINKS = (('Biologeek', 'http://biologeek.org'),
