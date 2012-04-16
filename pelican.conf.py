@@ -28,7 +28,15 @@ SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
           ('lastfm', 'http://lastfm.com/user/akounet'),
           ('github', 'http://github.com/ametaireau'),)
 
+SOCIAL = (
+          ('github', 'http://github.com/ametaireau'),)
+
+
 '''
+
+SOCIAL = (
+          ('github', 'http://github.com/jjdenis'),)
+
 
 # global metadata to all the contents
 DEFAULT_METADATA = (('yeah', 'it is'),)
