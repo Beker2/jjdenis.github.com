@@ -70,6 +70,10 @@ def probamos():
                 lineas[i] = lineas[i][2:]
 
 
+        for i, linea in enumerate(lineas):
+            lineas[i]=lineas[i].replace(u'\_', u'_')  
+
+
 
         #línea blanca bajo date
         if lineas[-1] == '\n':

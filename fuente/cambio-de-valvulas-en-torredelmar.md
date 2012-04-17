@@ -9,15 +9,15 @@ Antonio Córdoba de Emasa dice que con tantos sólidos el agua llegaba a
 la depuradora "predepurada por ósmosis inversa". ¡Pues todavía nos
 quedan algunas válvulas por cambiar!
 
-![Img\_1488](http://axaragua.files.wordpress.com/2012/03/img_1488.jpeg?w=400)
+![Img_1488](http://axaragua.files.wordpress.com/2012/03/img_1488.jpeg?w=400)
 
 MDF: Hemos pasado de un caudal a 50Hz por bomba de 147 l/s a 175 l/s y
 de una pérdida de carga de 38 mca a 28, dos más de los previstos (lo que
 nos tiene algo mosca).
 
-![Img\_1490](http://axaragua.files.wordpress.com/2012/03/img_1490.jpeg?w=400)
+![Img_1490](http://axaragua.files.wordpress.com/2012/03/img_1490.jpeg?w=400)
 
 JMS: El cambio lo hicimos el jueves 29, empezamos a desaguar la tubería
 a las 3:00 AM y a las 14:00 estaba repuesto el servicio.
 
-![08\_br\_torre\_del\_mar\_2012-03-29](http://axaragua.files.wordpress.com/2012/03/08_br_torre_del_mar_2012-03-29-scaled1000.png?w=400)
+![08_br_torre_del_mar_2012-03-29](http://axaragua.files.wordpress.com/2012/03/08_br_torre_del_mar_2012-03-29-scaled1000.png?w=400)

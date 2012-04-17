@@ -16,6 +16,6 @@ milímetro, de secundario nada.
 
 Prueba chula, ¡qué bien funcionan los decantadores!.
 
-![La\_foto](http://axaragua.files.wordpress.com/2011/10/la_foto-jpeg-scaled1000.jpg?w=400)
+![La_foto](http://axaragua.files.wordpress.com/2011/10/la_foto-jpeg-scaled1000.jpg?w=400)
 >
 ![image1](http://axaragua.files.wordpress.com/2011/10/la_foto1.jpeg?w=400)
