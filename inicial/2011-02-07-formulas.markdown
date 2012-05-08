@@ -1,0 +1,13 @@
+---
+date: '2011-02-07 08:41:00'
+layout: post
+slug: formulas
+status: trash
+title: Un sitio web donde explican las operaciones básicas de matemáticas. En español
+  y con nuestros métodos. Así le he podido explicar a Juanjito las raíces cuadradas.
+wordpress_id: '133'
+post_format:
+- Enlace
+---
+
+[Fórmulas](http://www.vitutor.net/)

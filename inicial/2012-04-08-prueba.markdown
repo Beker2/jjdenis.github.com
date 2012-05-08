@@ -1,0 +1,15 @@
+---
+date: '2012-04-08 22:43:26'
+layout: post
+slug: prueba
+status: publish
+title: Anita tan fresquita
+wordpress_id: '25'
+---
+
+Anita tan fresquita.
+
+
+
+
+![IMG 0840](http://jjdenis.files.wordpress.com/2012/04/img_0840.jpg)![IMG 0837](http://jjdenis.files.wordpress.com/2012/04/img_0837.jpg)

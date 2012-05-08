@@ -1,0 +1,20 @@
+---
+date: '2011-03-17 08:21:12'
+layout: post
+slug: top-10-solutions-to-real-lifes-most-annoying-problems
+status: publish
+title: 'Las 10 soluciones a los problemas más molestos de la vida.
+
+  Perfecta la solución a “ser manipulado”, en dos pasos:
+
+  Identificar la situación
+
+  Salir zumbando 
+
+  '
+wordpress_id: '115'
+post_format:
+- Enlace
+---
+
+[Top 10 Solutions to Real Life's Most Annoying Problems](http://lifehacker.com/#!5781093/top-10-solutions-to-real-lifes-most-annoying-problems)

@@ -1,0 +1,20 @@
+---
+date: '2009-04-14 08:59:00'
+layout: post
+slug: haiku
+status: publish
+title: Haiku
+wordpress_id: '370'
+---
+
+Estaba. Me voy.
+
+
+
+
+Frío, hueco, vacío,
+
+
+
+
+ya no estoy.

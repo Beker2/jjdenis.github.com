@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block content %}        
+
+{% if articles %}
+    {% for article in articles_page.object_list %}        
+
+        <article>
+            <p class="pequenioygris" style="margin-top: 3em;"> {{ article.locale_date }} </p>
+
+            <h1>{{ article.title }}</h1> 
+          
+            <p class="pequenioygris">{{ SITENAME }}</p>
+ 
+            <!-- {% if article.author %}
+                <p class="pequenioygris"> Por {{ article.author }}</p>
+            {% endif %} -->
+            <hr /> 
+
+
+
+            {{ article.content }}
+                        
+        </article>
+        
+        {% if loop.length == 1 %}
+            {% include 'pagination.html' %}
+        {% endif %}
+
+        {% if loop.last and (articles_page.has_previous() 
+           or not articles_page.has_previous() and loop.length > 1) %}
+            {% include 'pagination.html' %}
+        {% endif %}
+
+    {% endfor %}
+
+
+{% else %}
+    <section id="content" class="body">    
+    <h2>Pages</h2>
+    {% for page in PAGES %}
+        <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+    {% endfor %}
+   </section>
+{% endif %}
+
+{% endblock content %}
