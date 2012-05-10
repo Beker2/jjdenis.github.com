@@ -10,7 +10,7 @@ title: 'No te preguntes qué necesita el mundo...'
 
 [Howard Thurman](http://en.wikipedia.org/wiki/Howard_Thurman) Párroco de la
 iglesia de la Universidad de Boston, escritor, teólogo, maestro y líder de 
-los derechos humanos, influyón en Martin Luther King.
+los derechos humanos, influyó en Martin Luther King.
 
   
 
